@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/furia-chatbot/static/css/main.985a5844.css",
+    "main.js": "/furia-chatbot/static/js/main.f7418de0.js",
+    "static/js/453.ff530475.chunk.js": "/furia-chatbot/static/js/453.ff530475.chunk.js",
+    "index.html": "/furia-chatbot/index.html",
+    "main.985a5844.css.map": "/furia-chatbot/static/css/main.985a5844.css.map",
+    "main.f7418de0.js.map": "/furia-chatbot/static/js/main.f7418de0.js.map",
+    "453.ff530475.chunk.js.map": "/furia-chatbot/static/js/453.ff530475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985a5844.css",
+    "static/js/main.f7418de0.js"
+  ]
+}
